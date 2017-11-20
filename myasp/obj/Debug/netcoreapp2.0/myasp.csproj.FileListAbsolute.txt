@@ -1,0 +1,10 @@
+C:\Users\BS197\Desktop\myasp\bin\Debug\netcoreapp2.0\myasp.deps.json
+C:\Users\BS197\Desktop\myasp\bin\Debug\netcoreapp2.0\myasp.runtimeconfig.json
+C:\Users\BS197\Desktop\myasp\bin\Debug\netcoreapp2.0\myasp.runtimeconfig.dev.json
+C:\Users\BS197\Desktop\myasp\bin\Debug\netcoreapp2.0\myasp.dll
+C:\Users\BS197\Desktop\myasp\bin\Debug\netcoreapp2.0\myasp.pdb
+C:\Users\BS197\Desktop\myasp\obj\Debug\netcoreapp2.0\myasp.csproj.CoreCompileInputs.cache
+C:\Users\BS197\Desktop\myasp\obj\Debug\netcoreapp2.0\myasp.AssemblyInfoInputs.cache
+C:\Users\BS197\Desktop\myasp\obj\Debug\netcoreapp2.0\myasp.AssemblyInfo.cs
+C:\Users\BS197\Desktop\myasp\obj\Debug\netcoreapp2.0\myasp.dll
+C:\Users\BS197\Desktop\myasp\obj\Debug\netcoreapp2.0\myasp.pdb
