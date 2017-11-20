@@ -8,3 +8,13 @@ C:\Users\BS197\Desktop\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfoInputs.ca
 C:\Users\BS197\Desktop\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfo.cs
 C:\Users\BS197\Desktop\myapp\obj\Debug\netcoreapp2.0\myapp.dll
 C:\Users\BS197\Desktop\myapp\obj\Debug\netcoreapp2.0\myapp.pdb
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\bin\Debug\netcoreapp2.0\myapp.deps.json
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.json
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.dev.json
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\bin\Debug\netcoreapp2.0\myapp.dll
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\bin\Debug\netcoreapp2.0\myapp.pdb
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\obj\Debug\netcoreapp2.0\myapp.csproj.CoreCompileInputs.cache
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfoInputs.cache
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfo.cs
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\obj\Debug\netcoreapp2.0\myapp.dll
+c:\Users\BS197\OneDrive\Study\Dot net core\myapp\obj\Debug\netcoreapp2.0\myapp.pdb
