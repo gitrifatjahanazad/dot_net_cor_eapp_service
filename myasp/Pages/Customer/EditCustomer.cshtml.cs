@@ -25,7 +25,7 @@ namespace myasp.Pages
 
             if (Customer == null)
             {
-                return RedirectToPage("/Index1");
+                return RedirectToPage("/customer/list");
             }
 
             return Page();
@@ -49,7 +49,7 @@ namespace myasp.Pages
                 throw new Exception($"Customer {Customer.Id} not found!");
             }
 
-            return RedirectToPage("/Index1");
+            return RedirectToPage("/customer/list");
         }
     }
 }

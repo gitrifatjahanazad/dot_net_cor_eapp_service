@@ -25,7 +25,11 @@ namespace myasp
         {
             services.AddDbContext<AppDbContext>(options =>
                               options.UseInMemoryDatabase("name"));
-            services.AddMvc();
+            // services.AddMvc().WithRazorPagesRoot("/Pages");
+            services.AddMvc().AddRazorPagesOptions(options =>
+            {
+                options.Conventions.AddPageRoute("/customer/create", "");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,14 +44,10 @@ namespace myasp
                 app.UseExceptionHandler("/Error");
             }
 
+            
             app.UseStaticFiles();
 
-            app.UseMvc(routes =>
-            {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller}/{action=Index1}/{id?}");
-            });
+            app.UseMvc();
         }
     }
 }

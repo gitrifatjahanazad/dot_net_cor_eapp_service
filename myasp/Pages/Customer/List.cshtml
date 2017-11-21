@@ -1,8 +1,8 @@
 ﻿@page
-@model IndexModel1
+@model ListModel
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-<h1>Contacts</h1>
+<h1>Customers</h1>
 <form method="post">
     <table class="table">
         <thead>
@@ -18,7 +18,7 @@
                     <td>@contact.Id</td>
                     <td>@contact.Name</td>
                     <td>
-                        <a asp-page="./EditCustomer" asp-route-id="@contact.Id">edit</a>
+                        <a asp-page="/customer/edit" asp-route-id="@contact.Id">edit</a>
                         <button type="submit" asp-page-handler="delete" 
                                 asp-route-id="@contact.Id">delete</button>
                     </td>
@@ -26,6 +26,4 @@
             }
         </tbody>
     </table>
-
-    <a asp-page="./CreateCustomer">Create</a>
 </form>

@@ -9,11 +9,11 @@ using myasp.Models;
 
 namespace myasp.Pages
 {
-    public class IndexModel1 : PageModel
+    public class ListModel : PageModel
     {
         private readonly AppDbContext _db;
 
-        public IndexModel1(AppDbContext db)
+        public ListModel(AppDbContext db)
         {
             _db = db;
         }
@@ -36,6 +36,7 @@ namespace myasp.Pages
             }
 
             return RedirectToPage();
+            //look mvc routing is useless here
         }
     }
 }
