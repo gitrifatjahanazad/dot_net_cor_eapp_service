@@ -1,0 +1,1 @@
+* temp data saves data and let read once. But using keep or peek data can be viewed without removing it. 

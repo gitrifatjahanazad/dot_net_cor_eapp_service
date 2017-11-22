@@ -11,6 +11,8 @@ namespace myasp.Pages
 {
     public class ListModel : PageModel
     {
+        [TempData]
+        public string Message { get; set; }
         private readonly AppDbContext _db;
 
         public ListModel(AppDbContext db)
