@@ -1,0 +1,16 @@
+﻿<h1>In these files this dynamic text will be printed</h1>
+<form asp-controller="Home" asp-action="Index" method="get">
+    <p>
+        Type new text to change the text: <input type="text" name="printData" value="@ViewData["TextToShow"]">
+        <input type="submit" value="Change Text" />
+    </p>
+</form>
+<section>
+    @ViewData["TextToShow"]
+</section>
+
+<ul>
+    <li><a href="/home/word">Export in Word</a></li>
+    <li><a href="/home/xlsx">Export in Xlsx</a></li>
+    <li><a href="/home/pdf">Export in Pdf</a></li>
+</ul>

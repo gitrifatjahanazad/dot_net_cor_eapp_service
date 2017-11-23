@@ -1,0 +1,10 @@
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\bin\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.deps.json
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\bin\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.runtimeconfig.json
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\bin\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.runtimeconfig.dev.json
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\bin\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.dll
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\bin\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.pdb
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextsharp.csproj.CoreCompileInputs.cache
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextsharp.AssemblyInfoInputs.cache
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextsharp.AssemblyInfo.cs
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.dll
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.pdb

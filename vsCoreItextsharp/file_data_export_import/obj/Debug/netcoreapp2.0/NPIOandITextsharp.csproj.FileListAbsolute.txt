@@ -1,0 +1,10 @@
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\bin\Debug\netcoreapp2.0\NPIOandITextsharp.deps.json
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\bin\Debug\netcoreapp2.0\NPIOandITextsharp.runtimeconfig.json
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\bin\Debug\netcoreapp2.0\NPIOandITextsharp.runtimeconfig.dev.json
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\bin\Debug\netcoreapp2.0\NPIOandITextsharp.dll
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\bin\Debug\netcoreapp2.0\NPIOandITextsharp.pdb
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\obj\Debug\netcoreapp2.0\NPIOandITextsharp.csproj.CoreCompileInputs.cache
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\obj\Debug\netcoreapp2.0\NPIOandITextsharp.AssemblyInfoInputs.cache
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\obj\Debug\netcoreapp2.0\NPIOandITextsharp.AssemblyInfo.cs
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\obj\Debug\netcoreapp2.0\NPIOandITextsharp.dll
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\file_data_export_import\obj\Debug\netcoreapp2.0\NPIOandITextsharp.pdb
