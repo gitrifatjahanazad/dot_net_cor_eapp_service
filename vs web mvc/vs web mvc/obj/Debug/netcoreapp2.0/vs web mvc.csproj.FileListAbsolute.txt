@@ -9,3 +9,14 @@ C:\Users\BS197\OneDrive\Study\Dot net core\vs web mvc\vs web mvc\obj\Debug\netco
 C:\Users\BS197\OneDrive\Study\Dot net core\vs web mvc\vs web mvc\bin\Debug\netcoreapp2.0\vs web mvc.pdb
 C:\Users\BS197\OneDrive\Study\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.dll
 C:\Users\BS197\OneDrive\Study\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.pdb
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\bin\Debug\netcoreapp2.0\vs web mvc.deps.json
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\bin\Debug\netcoreapp2.0\vs web mvc.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\bin\Debug\netcoreapp2.0\vs web mvc.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\bin\Debug\netcoreapp2.0\vs web mvc.dll
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\bin\Debug\netcoreapp2.0\vs web mvc.pdb
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.dll
+C:\Users\Administrator\Desktop\Dot net core\vs web mvc\vs web mvc\obj\Debug\netcoreapp2.0\vs web mvc.pdb

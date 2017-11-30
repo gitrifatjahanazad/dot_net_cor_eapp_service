@@ -14,5 +14,6 @@ namespace vs_web_mvc.Models
         }
 
         public DbSet<vs_web_mvc.Models.ToDoItem> ToDoItem { get; set; }
+        public DbSet<Schedule> Schedule { get; set; }
     }
 }

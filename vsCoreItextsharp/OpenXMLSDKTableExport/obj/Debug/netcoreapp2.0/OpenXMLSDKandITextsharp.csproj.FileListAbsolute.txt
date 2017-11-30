@@ -8,3 +8,4 @@ C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExpor
 C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextsharp.AssemblyInfo.cs
 C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.dll
 C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextSharp.pdb
+C:\Users\BS197\OneDrive\Study\Dot net core\vsCoreItextsharp\OpenXMLSDKTableExport\obj\Debug\netcoreapp2.0\OpenXMLSDKandITextsharp.csprojResolveAssemblyReference.cache
